@@ -17,7 +17,9 @@
 - [License](#license)
 
 ## Legal Notice
-> The icons provided in this repository may include trademarks, registered trademarks, or branded logos. Their use is permitted **solely for personal purposes**. Any other use, including but not limited to commercial applications, redistribution, or modification, **requires explicit permission** from the copyright holder of the respective trademark or logo.
+> **This repository provides icons in `SVG` format. Be sure to read the terms of use before using them.**
+>
+> The icons provided in this repository may include _trademarks_, _registered trademarks_, or _branded logos_. Their use is permitted **solely for personal purposes**. Any other use, including but not limited to commercial applications, redistribution, or modification, **requires explicit permission** from the copyright holder of the respective trademark or logo.
 >
 > This repository is not affiliated with **Microsoft** or any of its subsidiaries.
 ## Requirements
