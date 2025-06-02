@@ -18,6 +18,8 @@
 
 ## Legal Notice
 > The icons provided in this repository may include trademarks, registered trademarks, or branded logos. Their use is permitted **solely for personal purposes**. Any other use, including but not limited to commercial applications, redistribution, or modification, **requires explicit permission** from the copyright holder of the respective trademark or logo.
+>
+> This repository is not affiliated with **Microsoft** or any of its subsidiaries.
 ## Requirements
 - [**PowerShell** (v5+)](https://github.com/PowerShell/powershell/releases)
 - [**ImageMagick**](https://imagemagick.org/script/download.php) installed and `magick` available in `PATH`
