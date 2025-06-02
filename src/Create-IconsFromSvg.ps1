@@ -1,5 +1,21 @@
-param ([string]$SvgFolder = ".\svg", [string]$IcoFolder = ".\ico", $Density = 300)
-
+<#
+.SYNOPSIS
+	Script to create Windows 11 icons from SVG files.
+.DESCRIPTION
+	This script processes SVG files from a specified folder and generates icon files (.ico) in the output folder.
+	It uses ImageMagick to convert SVG files into ICO format, creating icons of various sizes suitable for Windows 11.
+	For each pair of SVG files (big and small), it checks if the output icon already exists and is up-to-date based on the SHA1 hash of the SVG files. Generates the diferent icon sizes (256, 64, 48 and 40, for the big SVG and 32, 24, 20, and 16 pixels, for the small SVG) by resizing the SVG files. The script assumes that the big SVG file is named with a "-big" suffix and the small SVG file with a "-small" suffix. If the small SVG file does not exist, it uses the big SVG file for all sizes.
+.PARAMETER SvgFolder
+	The path to the folder containing SVG files. Defaults to "..\svg".
+.PARAMETER IcoFolder
+	The path to the folder where generated ICO files will be saved. Defaults to "..\ico".
+.PARAMETER Density
+	The density (in DPI) used for rendering the icons. Defaults to 300.
+.EXAMPLE
+	.\Create-IconsFromSvg.ps1 -SvgFolder "C:\path\to\svg" -IcoFolder "C:\path\to\ico" -Density 300
+	This command processes SVG files in the specified folder and generates icons in the output folder with a density of 300 DPI.
+#>
+param ([string]$SvgFolder = "..\svg", [string]$IcoFolder = "..\ico", $Density = 300)
 # Calculates the SHA1 hash of a given file
 # 
 # Parameters:
@@ -48,8 +64,11 @@ function Convert-SgvToIco {
 if (-not (Test-Path $IcoFolder)) {
 	New-Item -ItemType Directory -Path $IcoFolder | Out-Null
 }
-# Set C:\Program Files\WindowsApps\ImageMagick.Q16_7.1.1.47_x64__b3hnabsze9y3j
-$Env:MAGICK_CONFIGURE_PATH = "C:\Program Files\WindowsApps\ImageMagick.Q16_7.1.1.47_x64__b3hnabsze9y3j"
+# Set MAGICK_CONFIGURE_PATH if not already set
+if (-not $Env:MAGICK_CONFIGURE_PATH) {
+	$magickPath = Split-Path (.\Resolve-TruePath.ps1 magick)
+	$Env:MAGICK_CONFIGURE_PATH = Split-Path $magickPath
+}
 # Process each pair of SVGs
 Get-ChildItem -Path $SvgFolder -Filter *-big.svg | ForEach-Object {
 	[string]$bigSvg = $_.FullName
