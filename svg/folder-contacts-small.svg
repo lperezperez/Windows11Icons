@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 135.46667 135.46667"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="folder-contacts-small.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.5761719"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <filter
+       id="filter2_d_719_16743"
+       x="73"
+       y="86"
+       width="110.97"
+       height="109"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood19" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix20" />
+      <feOffset
+         dy="4"
+         id="feOffset20" />
+      <feGaussianBlur
+         stdDeviation="2"
+         id="feGaussianBlur20" />
+      <feComposite
+         in2="hardAlpha"
+         operator="out"
+         id="feComposite20" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"
+         id="feColorMatrix21" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow_719_16743"
+         id="feBlend21" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect1_dropShadow_719_16743"
+         result="shape"
+         id="feBlend22" />
+    </filter>
+    <linearGradient
+       id="paint2_linear_719_16743"
+       x1="91.232002"
+       y1="117.457"
+       x2="131.017"
+       y2="181.17799"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#146CD4"
+         id="stop34" />
+      <stop
+         offset="1"
+         stop-color="#5A41D2"
+         id="stop35" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       filter="url(#filter2_d_719_16743)"
+       id="g8"
+       transform="matrix(1.1534649,0,0,1.1534649,-80.469605,-94.328485)">
+      <circle
+         cx="112.257"
+         cy="151.743"
+         r="35.256699"
+         fill="url(#paint2_linear_719_16743)"
+         id="circle5"
+         style="fill:url(#paint2_linear_719_16743)" />
+      <circle
+         cx="112.257"
+         cy="142.203"
+         r="11.4066"
+         fill="#ffffff"
+         fill-opacity="0.44"
+         id="circle6" />
+      <path
+         d="m 94.0061,161.746 c 0,-2.432 1.9713,-4.403 4.4031,-4.403 h 27.6948 c 2.432,0 4.403,1.971 4.403,4.403 v 0 c 0,8.106 -6.571,14.677 -14.677,14.677 h -7.147 c -8.106,0 -14.6769,-6.571 -14.6769,-14.677 z"
+         fill="#ffffff"
+         fill-opacity="0.44"
+         id="path6" />
+      <circle
+         cx="153.839"
+         cy="121.879"
+         r="26.131399"
+         fill="#fdfdfc"
+         id="circle7" />
+      <circle
+         cx="153.839"
+         cy="114.808"
+         fill="#c8c6c4"
+         id="ellipse7"
+         r="8.4542799" />
+      <circle
+         cx="112.257"
+         cy="96.162201"
+         r="10.1622"
+         fill="#fdfdfc"
+         id="circle8" />
+      <path
+         d="m 140.312,129.293 c 0,-1.803 1.461,-3.264 3.263,-3.264 h 20.527 c 1.803,0 3.264,1.461 3.264,3.264 v 0 c 0,6.008 -4.871,10.878 -10.879,10.878 h -5.297 c -6.008,0 -10.878,-4.87 -10.878,-10.878 z"
+         fill="#c8c6c4"
+         id="path8" />
+    </g>
+  </g>
+</svg>

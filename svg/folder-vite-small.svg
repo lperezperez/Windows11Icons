@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="folder-vite-small.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.5761719"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="paint2_linear_2043_35907"
+       x1="70.063103"
+       y1="91.1063"
+       x2="136.209"
+       y2="180.937"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#41D1FF"
+         id="stop14" />
+      <stop
+         offset="1"
+         stop-color="#BD34FE"
+         id="stop15" />
+    </linearGradient>
+    <linearGradient
+       id="paint3_linear_2043_35907"
+       x1="124.558"
+       y1="84.120201"
+       x2="136.52299"
+       y2="166.202"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#FFEA83"
+         id="stop16" />
+      <stop
+         offset="0.0833333"
+         stop-color="#FFDD35"
+         id="stop17" />
+      <stop
+         offset="1"
+         stop-color="#FFA800"
+         id="stop18" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g18"
+       transform="matrix(1.1299173,0,0,1.1299173,-76.409642,-88.919911)">
+      <path
+         d="m 183.765,98.7678 -53.147,95.0362 c -1.098,1.962 -3.917,1.974 -5.031,0.021 L 71.3865,98.777 c -1.2134,-2.1279 0.6061,-4.7053 3.0174,-4.2742 l 53.2041,9.5102 c 0.339,0.06 0.687,0.06 1.026,-0.002 l 52.091,-9.4947 c 2.404,-0.438 4.231,2.1195 3.04,4.2515 z"
+         fill="url(#paint2_linear_2043_35907)"
+         id="path5"
+         style="fill:url(#paint2_linear_2043_35907)" />
+      <path
+         d="m 152.955,82.0279 -39.33,7.7066 c -0.647,0.1267 -1.125,0.6745 -1.164,1.332 l -2.419,40.8615 c -0.057,0.962 0.827,1.709 1.766,1.492 l 10.95,-2.527 c 1.025,-0.236 1.95,0.666 1.74,1.697 l -3.253,15.93 c -0.22,1.073 0.787,1.989 1.834,1.671 l 6.764,-2.055 c 1.048,-0.318 2.056,0.601 1.834,1.675 l -5.171,25.023 c -0.323,1.566 1.759,2.419 2.627,1.077 l 0.58,-0.896 32.049,-63.959 c 0.537,-1.071 -0.389,-2.292 -1.565,-2.065 l -11.271,2.176 c -1.059,0.204 -1.96,-0.783 -1.662,-1.819 l 7.357,-25.5025 c 0.299,-1.0381 -0.605,-2.0253 -1.666,-1.8176 z"
+         fill="url(#paint3_linear_2043_35907)"
+         id="path6"
+         style="fill:url(#paint3_linear_2043_35907)" />
+    </g>
+  </g>
+</svg>

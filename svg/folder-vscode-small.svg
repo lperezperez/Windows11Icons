@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512mm"
+   height="512mm"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="folder-vscode-small.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.41702881"
+     inkscape:cx="966.3601"
+     inkscape:cy="967.55906"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g15"
+       transform="matrix(4.9724276,0,0,4.9724276,-386.76674,-419.00784)">
+      <path
+         d="m 81.9184,121.302 c 0,0 -2.3511,-1.695 0.4703,-3.958 l 6.5735,-5.878 c 0,0 1.8809,-1.978 3.8696,-0.254 l 60.6602,45.926 v 22.023 c 0,0 -0.029,3.458 -4.467,3.076 z"
+         fill="#2489ca"
+         id="path5" />
+      <path
+         d="m 97.5538,135.498 -15.6353,14.214 c 0,0 -1.6066,1.196 0,3.331 l 7.2593,6.603 c 0,0 1.7242,1.852 4.2713,-0.255 l 16.5759,-12.569 z"
+         fill="#1070b3"
+         id="path6" />
+      <path
+         d="m 125.004,135.615 28.674,-21.895 -0.186,-21.9055 c 0,0 -1.224,-4.7807 -5.309,-2.2924 l -38.158,34.7289 z"
+         fill="#0877b9"
+         id="path7" />
+      <path
+         d="m 149.025,182.266 c 1.665,1.705 3.683,1.147 3.683,1.147 l 22.346,-11.012 c 2.861,-1.949 2.459,-4.369 2.459,-4.369 v -65.755 c 0,-2.8896 -2.959,-3.8889 -2.959,-3.8889 L 155.187,89.052 c -4.232,-2.6157 -7.005,0.4702 -7.005,0.4702 0,0 3.566,-2.5667 5.31,2.2924 v 86.9444 c 0,0.598 -0.127,1.186 -0.382,1.715 -0.51,1.028 -1.617,1.988 -4.272,1.587 z"
+         fill="#3c99d4"
+         id="path8" />
+    </g>
+  </g>
+</svg>
