@@ -2,6 +2,11 @@
 [![Semantic Versioning 2.0.0](https://img.shields.io/badge/version-2.0.0-3f4551.svg?label=Semantic%20Versioning&logo=semver)](https://semver.org/spec/v2.0.0.html) [![Keep a Changelog 1.1.0](https://img.shields.io/badge/changelog-Keep%20a%20Changelog%201.1.0-ed4a0d.svg?logo=keepachangelog)](http://keepachangelog.com/en/1.1.0/)
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.1.0/) and tries to adhere (due to the nature of the project itself), to [Semantic Versioning 2.0.0](https://semver.org/spec/v2.0.0.html).
+## 1.3.0 - 2025-06-16
+### Added
+- [`Customize-Folders.ps1`](https://github.com/lperezperez/Windows11Icons/blob/master/src/Customize-Folders.ps1) to customize folders with the icons.
+- [`schema.json`](https://github.com/lperezperez/Windows11Icons/blob/master/src/schema.json) to provide the ruleset to generate JSON folders array.
+- [`folders.json`](https://github.com/lperezperez/Windows11Icons/blob/master/src/folders.json) the default folder collection to customize.
 ## 1.2.0 - 2025-06-06
 ### Added
 - 4 new folder icons.

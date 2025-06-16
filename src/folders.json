@@ -1,0 +1,308 @@
+{
+	"$schema": "https://raw.githubusercontent.com/lperezperez/Windows11Icons/refs/heads/master/src/schema.json",
+	"folders": [
+		{
+			"IconFile": "folder-profile.ico",
+			"Path": "%UserProfile%",
+			"DesktopIni": {
+				".ShellClassInfo": {
+					"FolderType": "Generic",
+					"IconResource": ".\\Folder.ico,0",
+					"InfoTip": "Carpeta del usuario actual de este equipo"
+				},
+				"ViewState": {
+					"FolderType": "Generic",
+					"Mode": 5,
+					"Vid": "{8BEBB290-52D0-11D0-B7F4-00C04FD706EC}"
+				}
+			}
+		},
+		{
+			"IconFile": "folder-azure.ico",
+			"Path": "%UserProfile%\\.aitk",
+			"DesktopIni": {
+				".ShellClassInfo": {
+					"FolderType": "Generic",
+					"IconResource": ".\\Folder.ico,0"
+				},
+				"ViewState": {
+					"FolderType": "Generic",
+					"Mode": 4,
+					"Vid": "{137E7700-3573-11CF-AE69-08002B2E1262"
+				}
+			}
+		},
+		{
+			"IconFile": "folder-azure.ico",
+			"Path": "%UserProfile%\\.azure",
+			"DesktopIni": {
+				".ShellClassInfo": {
+					"FolderType": "Generic",
+					"IconResource": ".\\Folder.ico,0"
+				},
+				"ViewState": {
+					"FolderType": "Generic",
+					"Mode": 4,
+					"Vid": "{137E7700-3573-11CF-AE69-08002B2E1262"
+				}
+			}
+		},
+		{
+			"IconFile": "folder-azure.ico",
+			"Path": "%UserProfile%\\.azure-functions-core-tools",
+			"DesktopIni": {
+				".ShellClassInfo": {
+					"FolderType": "Generic",
+					"IconResource": ".\\Folder.ico,0"
+				},
+				"ViewState": {
+					"FolderType": "Generic",
+					"Mode": 4,
+					"Vid": "{137E7700-3573-11CF-AE69-08002B2E1262"
+				}
+			}
+		},
+		{
+			"IconFile": "folder-azure.ico",
+			"Path": "%UserProfile%\\.azurefunctions",
+			"DesktopIni": {
+				".ShellClassInfo": {
+					"FolderType": "Generic",
+					"IconResource": ".\\Folder.ico,0"
+				},
+				"ViewState": {
+					"FolderType": "Generic",
+					"Mode": 4,
+					"Vid": "{137E7700-3573-11CF-AE69-08002B2E1262"
+				}
+			}
+		},
+		{
+			"IconFile": "folder-cache.ico",
+			"Path": "%UserProfile%\\.cache",
+			"DesktopIni": {
+				".ShellClassInfo": {
+					"FolderType": "Generic",
+					"IconResource": ".\\Folder.ico,0"
+				},
+				"ViewState": {
+					"FolderType": "Generic",
+					"Mode": 4,
+					"Vid": "{137E7700-3573-11CF-AE69-08002B2E1262"
+				}
+			}
+		},
+		{
+			"IconFile": "folder-.net.ico",
+			"Path": "%UserProfile%\\.dotnet",
+			"DesktopIni": {
+				".ShellClassInfo": {
+					"FolderType": "Generic",
+					"IconResource": ".\\Folder.ico,0"
+				},
+				"ViewState": {
+					"FolderType": "Generic",
+					"Mode": 4,
+					"Vid": "{137E7700-3573-11CF-AE69-08002B2E1262"
+				}
+			}
+		},
+		{
+			"IconFile": "folder-nuget.ico",
+			"Path": "%UserProfile%\\.nuget",
+			"DesktopIni": {
+				".ShellClassInfo": {
+					"FolderType": "Generic",
+					"IconResource": ".\\Folder.ico,0"
+				},
+				"ViewState": {
+					"FolderType": "Generic",
+					"Mode": 1,
+					"Vid": "{0057D0E0-3573-11CF-AE69-08002B2E1262}"
+				}
+			}
+		},
+		{
+			"IconFile": "folder-templates.ico",
+			"Path": "%UserProfile%\\.templateengine",
+			"DesktopIni": {
+				".ShellClassInfo": {
+					"FolderType": "Generic",
+					"IconResource": ".\\Folder.ico,0"
+				},
+				"ViewState": {
+					"FolderType": "Generic",
+					"Mode": 4,
+					"Vid": "{137E7700-3573-11CF-AE69-08002B2E1262"
+				}
+			}
+		},
+		{
+			"IconFile": "folder-vite.ico",
+			"Path": "%UserProfile%\\.vite-plugin-mkcert",
+			"DesktopIni": {
+				".ShellClassInfo": {
+					"FolderType": "Generic",
+					"IconResource": ".\\Folder.ico,0"
+				},
+				"ViewState": {
+					"FolderType": "Generic",
+					"Mode": 4,
+					"Vid": "{137E7700-3573-11CF-AE69-08002B2E1262}"
+				}
+			}
+		},
+		{
+			"IconFile": "folder-contacts.ico",
+			"Path": "%UserProfile%\\Contacts",
+			"DesktopIni": {
+				".ShellClassInfo": {
+					"FolderType": "Generic",
+					"IconResource": ".\\Folder.ico,0"
+				},
+				"ViewState": {
+					"FolderType": "Generic",
+					"Mode": 1,
+					"Vid": "{0057D0E0-3573-11CF-AE69-08002B2E1262}"
+				}
+			}
+		},
+		{
+			"Path": "%UserProfile%\\Favorites",
+			"DesktopIni": {
+				".ShellClassInfo": {
+					"FolderType": "Generic",
+					"IconResource": ".\\Folder.ico,0",
+					"InfoTip": "Carpeta de favoritos",
+					"LocalizedResourceName": "Favoritos"
+				},
+				"ViewState": {
+					"FolderType": "Generic",
+					"Mode": 1,
+					"Vid": "{0057D0E0-3573-11CF-AE69-08002B2E1262}"
+				}
+			}
+		},
+		{
+			"Path": "%UserProfile%\\OneDrive",
+			"DesktopIni": {
+				".ShellClassInfo": {
+					"FolderType": "Generic",
+					"IconResource": "%ProgramFiles%\\Microsoft OneDrive\\OneDrive.exe,5",
+					"InfoTip": "Carpeta de OneDrive personal",
+					"LocalizedResourceName": "OneDrive - Personal"
+				},
+				"ViewState": {
+					"FolderType": "Generic",
+					"Mode": 1,
+					"Vid": "{0057D0E0-3573-11CF-AE69-08002B2E1262}"
+				}
+			}
+		},
+		{
+			"Path": "%UserProfile%\\OneDrive - DEVOTEAM Group IT Prod",
+			"DesktopIni": {
+				".ShellClassInfo": {
+					"FolderType": "Generic",
+					"IconResource": "%ProgramFiles%\\Microsoft OneDrive\\OneDrive.exe,6",
+					"InfoTip": "Carpeta de OneDrive de Devoteam",
+					"LocalizedResourceName": "OneDrive - Devoteam"
+				},
+				"ViewState": {
+					"FolderType": "Generic",
+					"Mode": 1,
+					"Vid": "{0057D0E0-3573-11CF-AE69-08002B2E1262}"
+				}
+			}
+		},
+		{
+			"IconFile": "folder-games.ico",
+			"Path": "%UserProfile%\\Saved Games",
+			"DesktopIni": {
+				".ShellClassInfo": {
+					"FolderType": "Generic",
+					"IconResource": ".\\Folder.ico,0"
+				},
+				"ViewState": {
+					"FolderType": "Generic",
+					"Mode": 5,
+					"Vid": "{8BEBB290-52D0-11D0-B7F4-00C04FD706EC}"
+				}
+			}
+		},
+		{
+			"Path": "%UserProfile%\\Searches",
+			"DesktopIni": {
+				".ShellClassInfo": {
+					"FolderType": "Generic",
+					"IconResource": "%SystemRoot%\\system32\\imageres.dll,205"
+				}
+			}
+		},
+		{
+			"IconFile": "folder-source.ico",
+			"Path": "%UserProfile%\\Source",
+			"DesktopIni": {
+				".ShellClassInfo": {
+					"FolderType": "Generic",
+					"IconResource": ".\\Folder.ico,0",
+					"InfoTip": "Carpeta de código fuente",
+					"LocalizedResourceName": "Código fuente"
+				},
+				"ViewState": {
+					"FolderType": "Generic",
+					"Mode": 1,
+					"Vid": "{0057D0E0-3573-11CF-AE69-08002B2E1262}"
+				}
+			}
+		},
+		{
+			"IconFile": "folder-system-performance.ico",
+			"Path": "%UserProfile%\\Source\\PerformanceLog",
+			"DesktopIni": {
+				".ShellClassInfo": {
+					"FolderType": "Generic",
+					"IconResource": ".\\Folder.ico,0",
+					"InfoTip": "Carpeta de logs del rendimiento del sistema"
+				},
+				"ViewState": {
+					"FolderType": "Generic",
+					"Mode": 1,
+					"Vid": "{0057D0E0-3573-11CF-AE69-08002B2E1262}"
+				}
+			}
+		},
+		{
+			"IconFile": "folder-repos.ico",
+			"Path": "%UserProfile%\\Source\\Repos",
+			"DesktopIni": {
+				".ShellClassInfo": {
+					"FolderType": "Generic",
+					"IconResource": ".\\Folder.ico,0",
+					"InfoTip": "Carpeta de repositorios de código fuente publicados",
+					"LocalizedResourceName": "Repositorios"
+				},
+				"ViewState": {
+					"FolderType": "Generic",
+					"Mode": 1,
+					"Vid": "{0057D0E0-3573-11CF-AE69-08002B2E1262}"
+				}
+			}
+		},
+		{
+			"IconFile": "folder-vscode.ico",
+			"Path": "%UserProfile%\\vscode-remote-wsl",
+			"DesktopIni": {
+				".ShellClassInfo": {
+					"FolderType": "Generic",
+					"IconResource": ".\\Folder.ico,0"
+				},
+				"ViewState": {
+					"FolderType": "Generic",
+					"Mode": 1,
+					"Vid": "{0057D0E0-3573-11CF-AE69-08002B2E1262}"
+				}
+			}
+		}
+	]
+}
