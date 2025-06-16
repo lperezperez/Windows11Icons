@@ -1,5 +1,5 @@
 {
-	"$schema": "./schema.json",
+	"$schema": "https://raw.githubusercontent.com/lperezperez/Windows11Icons/refs/heads/master/src/schema.json",
 	"folders": [
 		{
 			"IconFile": "folder-profile.ico",
@@ -159,6 +159,22 @@
 				".ShellClassInfo": {
 					"FolderType": "Generic",
 					"IconResource": ".\\Folder.ico,0"
+				},
+				"ViewState": {
+					"FolderType": "Generic",
+					"Mode": 1,
+					"Vid": "{0057D0E0-3573-11CF-AE69-08002B2E1262}"
+				}
+			}
+		},
+		{
+			"Path": "%UserProfile%\\Favorites",
+			"DesktopIni": {
+				".ShellClassInfo": {
+					"FolderType": "Generic",
+					"IconResource": ".\\Folder.ico,0",
+					"InfoTip": "Carpeta de favoritos",
+					"LocalizedResourceName": "Favoritos"
 				},
 				"ViewState": {
 					"FolderType": "Generic",
