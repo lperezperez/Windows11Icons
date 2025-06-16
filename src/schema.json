@@ -1,0 +1,136 @@
+{
+	"$schema": "https://json-schema.org/draft/2020-12/schema",
+	"$id": "https://example.com/DesktopIni",
+	"additionalProperties": false,
+	"description": "Definition schema for Desktop.ini files.",
+	"properties": {
+		"folders": {
+			"items": {
+				"additionalProperties": false,
+				"description": "List of folder definitions, each containing ShellClassInfo and ViewState.",
+				"properties": {
+					"DesktopIni": {
+						"description": "Contains the desktop.ini file configuration parameters.",
+						"required": [ ".ShellClassInfo" ],
+						".ShellClassInfo": {
+							"additionalProperties": false,
+							"description": "Shell class information for customize or create system and special folders.",
+							"properties": {
+								"CLSID": {
+									"description": "Unique class identifier for creating system and special folders.",
+									"type": "string"
+								},
+								"DefaultDropEffect": {
+									"description": "Default action when dropping the folder: 1 - Copy, 2 - Move and 4 - Create a shortcut.",
+									"enum": [1, 2, 4],
+									"type": "integer"
+								},
+								"FolderType": {
+									"description": "Type of the folder, e.g. 'Generic', 'Documents', 'Pictures'.",
+									"enum": [
+										"CommonDocuments",
+										"Contacts",
+										"Documents",
+										"Generic",
+										"Links",
+										"Music",
+										"MusicAlbum",
+										"MusicArtist",
+										"MyDocuments",
+										"MyMusic",
+										"MyPictures",
+										"MyVideos",
+										"Pictures",
+										"PhotoAlbum",
+										"Recent",
+										"Searches",
+										"UserLegacyHTT",
+										"Videos"
+									],
+									"type": "string"
+								},
+								"IconFile": {
+									"description": "Path to the icon file for the folder.",
+									"type": "string"
+								},
+								"IconIndex": {
+									"description": "Index of the icon within the specified file.",
+									"type": "integer"
+								},
+								"IconResource": {
+									"description": "Resource identifier for the icon (e.g. Icon.ico,0).",
+									"type": "string"
+								},
+								"InfoTip": {
+									"description": "Informational text or resource identifier.",
+									"type": "string"
+								},
+								"LocalizedResourceName": {
+									"description": "Localized name for the folder.",
+									"type": "string"
+								},
+								"type": "object"
+							}
+						},
+						"ViewState": {
+							"description": "View state of the folder.",
+							"properties": {
+								"FolderType": {
+									"description": "Type of the folder view.",
+									"enum": [
+										"CommonDocuments",
+										"Contacts",
+										"Documents",
+										"Generic",
+										"Links",
+										"Music",
+										"MusicAlbum",
+										"MusicArtist",
+										"MyDocuments",
+										"MyMusic",
+										"MyPictures",
+										"MyVideos",
+										"Pictures",
+										"PhotoAlbum",
+										"Recent",
+										"Searches",
+										"UserLegacyHTT",
+										"Videos"
+									],
+									"type": "string"
+								},
+								"Vid": {
+									"description": "View identifier.",
+									"enum": [
+										"{0057D0E0-3573-11CF-AE69-08002B2E1262}",
+										"{0E1FA5E0-3573-11CF-AE69-08002B2E1262}",
+										"{137E7700-3573-11CF-AE69-08002B2E1262}",
+										"{8BEBB290-52D0-11D0-B7F4-00C04FD706EC}",
+										"{65F125E5-7BE1-4810-BA9D-D271C8432CE3}",
+										"{8EEFA624-D1E9-445B-94B7-74FBCE2EA11A}"
+									],
+									"type": "string"
+								},
+								"type": "object"
+							}
+						},
+						"type": "object"
+					},
+					"IconFile": {
+						"description": "Path to the icon file for the folder.",
+						"type": "string"
+					},
+					"Path": {
+						"description": "Path to the folder.",
+						"type": "string"
+					}
+				},
+				"required": ["Path", "DesktopIni"],
+				"type": "object"
+			},
+			"type": "array"
+		}
+	},
+	"title": "Scheme to customize folder appearance.",
+	"type": "object"
+}
