@@ -18,6 +18,21 @@
 			}
 		},
 		{
+			"IconFile": "folder-android.ico",
+			"Path": "%UserProfile%\\.android",
+			"DesktopIni": {
+				".ShellClassInfo": {
+					"FolderType": "Generic",
+					"IconResource": ".\\Folder.ico,0"
+				},
+				"ViewState": {
+					"FolderType": "Generic",
+					"Mode": 4,
+					"Vid": "{137E7700-3573-11CF-AE69-08002B2E1262"
+				}
+			}
+		},
+		{
 			"IconFile": "folder-azure.ico",
 			"Path": "%UserProfile%\\.aitk",
 			"DesktopIni": {

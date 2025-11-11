@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="650"
+   height="650"
+   viewBox="0 0 26 26"
+   fill="none"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="folder-android-small.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.00875"
+     inkscape:cx="400"
+     inkscape:cy="320.69393"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     id="path5"
+     style="clip-rule:evenodd;fill:#87c527;fill-rule:evenodd"
+     d="M 8.5,0 C 8.372025,0 8.2440563,0.04884938 8.1464063,0.14648437 c -0.1952001,0.19526001 -0.1952001,0.51177126 0,0.70703126 L 8.7388281,1.4459375 C 7.0734281,2.7255675 6,4.73743 6,7 H 20 C 20,4.73743 18.926572,2.7255675 17.261172,1.4459375 l 0.592422,-0.59242187 c 0.1952,-0.19526001 0.1952,-0.51177126 0,-0.70703126 -0.1953,-0.19526999 -0.511888,-0.19526999 -0.707188,0 l -0.73789,0.73796875 C 15.399816,0.32108313 14.2374,0 13,0 11.7626,0 10.600184,0.32108313 9.5914844,0.88445312 L 8.8535938,0.14648437 C 8.7559437,0.04884938 8.627975,0 8.5,0 Z M 10,3 c 0.5523,0 1,0.44772 1,1 0,0.55228 -0.4477,1 -1,1 C 9.4477,5 9,4.55228 9,4 9,3.44772 9.4477,3 10,3 Z m 6,0 c 0.5523,0 1,0.44772 1,1 0,0.55228 -0.4477,1 -1,1 C 15.4477,5 15,4.55228 15,4 15,3.44772 15.4477,3 16,3 Z M 3.5,8 C 2.67157,8 2,8.6716 2,9.5 v 6 C 2,16.3284 2.67157,17 3.5,17 4.32843,17 5,16.3284 5,15.5 v -6 C 5,8.6716 4.32843,8 3.5,8 Z M 6,8 v 11 c 0,1.1046 0.89543,2 2,2 h 1 v 3.5 C 9,25.3284 9.6716,26 10.5,26 11.3284,26 12,25.3284 12,24.5 V 21 h 2 v 3.5 c 0,0.8284 0.6716,1.5 1.5,1.5 0.8284,0 1.5,-0.6716 1.5,-1.5 V 21 h 1 c 1.1046,0 2,-0.8954 2,-2 V 8 Z M 22.5,8 C 21.6716,8 21,8.6716 21,9.5 v 6 c 0,0.8284 0.6716,1.5 1.5,1.5 0.8284,0 1.5,-0.6716 1.5,-1.5 v -6 C 24,8.6716 23.3284,8 22.5,8 Z"
+     inkscape:label="icon" />
+</svg>
